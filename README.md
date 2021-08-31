@@ -4,14 +4,14 @@
 # OBJETIVO 
 
 Objetivo General
-Establecer el teorema de superposición y sus aplicaciones en un circuito mixto donde se requiere calcular intensidades y voltajes por métodos ya conocidos como la ley de Ohm o el análisis de mallas con el fin de desarrollar la capacidad de cada estudiante en la resolución de circuitos complejos con dos o más fuentes, ya sea de corriente o voltaje.
 
-Objetivos Especificos
-• Verificar si los valores de las corrientes y voltajes con las ambas fuentes y por separado
+Desarrollar experimentalmente mediante el simulador propuesto en las curvas de carga y descarga de un condensador en función de la corriente y el voltaje, estableciendo bases teóricas y experimentales para el desarrollo de circuitos con corriente alterna y la obtención de sus datos.
 
-• Conocer los fundamentos básicos del teorema de superposición.
+Objetivos Especifico
+•	Establecer diferencias y similitudes entre circuitos con corriente continua y corriente alterna.
+•	Identificar el comportamiento de la bobina y el capacitor en circuitos DC.
+•	Identificar el comportamiento de la bobina y el capacitor en circuitos AC.
 
-• Comprobar las condiciones necesarias para que se cumpla el teorema de superposición.
 
 # MARCO TEORICO
 
