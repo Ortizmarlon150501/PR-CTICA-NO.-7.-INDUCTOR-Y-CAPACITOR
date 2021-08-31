@@ -255,9 +255,11 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+Lo creo que ocurriría es que los valores de el voltaje y la corriente varían dependiendo los valores que se tienen en cada unos de estos elementos con valores distintos y ver el comportamiento.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
 # VIDEO
 
