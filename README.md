@@ -5,6 +5,10 @@
 
 Objetivo General
 
+
+Desarrollar experimentalmente  las curvas de carga y descarga de condensadores y de inductores en función de la corriente y el voltaje, estableciendo bases teóricas y experimentales para el desarrollo de circuitos con corriente alterna con la medición y la tabulación de todos los datos posibles.
+
+
 Objetivos Especifico
 
 •	Establecer diferencias y similitudes entre circuitos con corriente continua y corriente alterna.
