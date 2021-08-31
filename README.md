@@ -27,6 +27,8 @@ Objetivos Especificos
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
