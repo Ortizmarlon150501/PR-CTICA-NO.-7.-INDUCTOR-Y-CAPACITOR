@@ -99,6 +99,32 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 ![image](https://user-images.githubusercontent.com/84412132/131533380-a9bdb549-d1ab-406b-880c-3cf4756354dd.png)
 
 
+Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+10 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131534290-8e69451e-c0ba-4e28-901d-550612982f56.png)
+
+50 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131534467-b35cc5cd-a23f-4aee-b8f5-7429a4e7e878.png)
+
+100 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131534609-1606e0a3-ba99-48df-95d1-b432fd534001.png)
+
+
+500 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131534788-2f8a2ee7-a3cd-46f1-9d38-d205799726b9.png)
+
+1000 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131535004-fd70c3ba-60ca-4313-8582-0fd1ede72be7.png)
+
+
+
 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/84585835/131519596-4979e8f0-b8f9-4e35-a606-4136c3ecbdcb.png)
