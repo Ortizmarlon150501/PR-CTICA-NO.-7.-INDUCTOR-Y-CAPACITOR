@@ -43,14 +43,61 @@ Objetivos Especifico
 
 ![image](https://user-images.githubusercontent.com/84585835/131519458-f205d8ad-0193-4b3f-8763-6d2c8fd73e92.png)
 
-a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+![image](https://user-images.githubusercontent.com/84412132/131531756-6caeb61b-513d-4be9-97ba-52e5955a3fb7.png)
+
+
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+10Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131531962-c01831b9-d422-44ce-b273-b533cfd8e06a.png)
+
+50 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131532120-baeed843-0c7f-4721-afc3-0c3cb764d735.png)
+
+100 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131532194-a78fc0b3-0878-4a9e-9788-4e65c58a242d.png)
+
+500 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131532268-db6b336b-7943-4850-a111-7fb74dfe877e.png)
+
+1000 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131532340-cc4f6e7b-d2c1-4d1e-8be6-2d5b51cdca51.png)
+
+C.Use un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
+10 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131532761-5e494522-3536-4069-bb5f-329e4cae6bd0.png)
+
+
+50 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131532887-74d6d80d-b354-4cd8-ad3c-cbd471256ca1.png)
+
+
+100 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131533046-f2c36800-e3d0-497f-b392-5c77e2d403e4.png)
+
+
+500 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131533127-9d6b1321-3b3f-4d54-8ea7-5cb4b5252336.png)
+
+
+1000 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131533380-a9bdb549-d1ab-406b-880c-3cf4756354dd.png)
+
 
 2.- Construya el circuito mostrado en la Figura 2
 
