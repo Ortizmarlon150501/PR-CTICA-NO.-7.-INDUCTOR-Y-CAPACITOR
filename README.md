@@ -167,7 +167,56 @@ Voltaje:
  
  10 Hz
  
- 
+ ![image](https://user-images.githubusercontent.com/84412132/131536588-8bc50122-aa2b-4966-95f8-1bfe72eead4d.png)
+
+
+50 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131536700-8625e218-2abd-4c2b-b20d-d7c2907c804a.png)
+
+
+100 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131536793-e7bba602-95d8-4ead-8a1f-5835bb91f6f2.png)
+
+
+500 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131536857-8e946fde-4f37-4cbe-b21c-28023bb20890.png)
+
+
+1000 HZ
+
+![image](https://user-images.githubusercontent.com/84412132/131536909-5485fba4-7b5e-4008-a12e-13c36c1aed61.png)
+
+
+Osciloscopio:
+
+10 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131537151-2001dbb3-6cb1-4c8c-aef1-10f922f1d0e8.png)
+
+50 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131537230-24bc0736-07ef-45a6-8721-21e7e15a4449.png)
+
+
+100 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131537397-8379ac91-3574-4c2b-9c7a-35fce19865f2.png)
+
+
+500 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131537481-0ca2640c-fc26-4e4f-b6be-cc9ef7b76901.png)
+
+
+1000 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131537559-f928042b-7954-42cd-8adf-45a62f78f6d0.png)
+
+
+
 
 
 
