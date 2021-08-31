@@ -60,6 +60,9 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+![image](https://user-images.githubusercontent.com/84585835/131522198-1b70ef2e-b6f5-43be-86a1-0ec841ab8c0e.png)
+
+
 # PREGUNTAS 
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
