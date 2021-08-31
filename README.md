@@ -263,7 +263,7 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 
 # VIDEO
 
-https://youtu.be/RReFfOe9raE
+https://youtu.be/sCqdVm0Wkpk
 
 # CONCLUSION 
 
