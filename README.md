@@ -5,8 +5,6 @@
 
 Objetivo General
 
-Desarrollar experimentalmente mediante el simulador propuesto en las curvas de carga y descarga de un condensador en función de la corriente y el voltaje, estableciendo bases teóricas y experimentales para el desarrollo de circuitos con corriente alterna y la obtención de sus datos.
-
 Objetivos Especifico
 
 •	Establecer diferencias y similitudes entre circuitos con corriente continua y corriente alterna.
