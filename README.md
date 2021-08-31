@@ -278,8 +278,8 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 
 # BIOGRAFIA
 
-• (2012). WEBSCOLAR. La inductancia de la corriente contínua y alterna. https://www.webscolar.com/la-inductancia-de-la-corriente-continua-y-alterna. Fecha de consulta: 31 de agosto de 2021.
+• (2012). WEBSCOLAR. La inductancia de la corriente contínua y alterna. https://www.webscolar.com/la-inductancia-de-la-corriente-continua-y-alterna. 
 
-•A. de E. Nieto, “Cómo funciona un condensador en corriente alterna.” https://fidestec.com/blog/como-funciona-un-condensador-en-corriente-alterna/.
+• A. de E. Nieto, “Cómo funciona un condensador en corriente alterna.” https://fidestec.com/blog/como-funciona-un-condensador-en-corriente-alterna/.
 
 
