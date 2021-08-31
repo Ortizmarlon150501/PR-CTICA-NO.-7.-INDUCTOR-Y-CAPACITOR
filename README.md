@@ -236,12 +236,25 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 
+•	El comportamiento que tiene una bobina en corriente continua o también llamada corriente que no varía con el tiempo a un inductor, este se comporta como un corto circuito y dejará pasar la corriente a través de ella sin ninguna oposición.
+
+
+•	El comportamiento que tiene un capacitor en corriente continua depende del flujo de electrones se detiene o no, si la corriente deja de circular da el comportamiento al capacitor como un circuito abierto para la corriente continua y no permite el paso de corriente.
+
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+
+•	El comportamiento que tiene una bobina en corriente alterna este se comporta como un circuito abierto y no permite el paso de la corriente a través de ella dando así una oposición.
+
+
+•	El comportamiento que tiene un capacitor en corriente alterna es de un circuito cerrado para la corriente alterna y permite el paso de corriente o flujo de electrones
+
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
+
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
