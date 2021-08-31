@@ -1,6 +1,5 @@
-# PR-CTICA-NO.-7.-INDUCTOR-Y-CAPACITOR
 
-Laboratorio 4 Teorema de Superposicion
+# LABORATORIO NO7 INDUCTOR Y CONDENSADOR
 
 # OBJETIVO 
 
