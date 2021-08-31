@@ -24,41 +24,41 @@ Objetivos Especifico
 
 ![image](https://user-images.githubusercontent.com/84587118/131431648-6d0eebab-1ece-4603-918c-a864a1cea9e7.png)
 
-
+# Materiales
+- Generador de señales
+- Fuente DC.
+- Osciloscopio.
+- Protoboard
+- Multímetro
+- Cables conductores
+- Resistencias, bobinas y capacitores.
 
 # PROCEDIMIENTO 
 
-Circuito figura 2
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
-![image](https://user-images.githubusercontent.com/84412132/131518898-20da8bc4-bbfb-422e-a981-55f1fb23926c.png)
+![image](https://user-images.githubusercontent.com/84585835/131519458-f205d8ad-0193-4b3f-8763-6d2c8fd73e92.png)
 
-Simulación 10Hz, 50Hz, 100Hz, 500Hz, 1000Hz
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-10Hz
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-![image](https://user-images.githubusercontent.com/84412132/131519238-116fa7e6-71ec-45a7-88e0-55232bd9feb3.png)
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-50Hz
+2.- Construya el circuito mostrado en la Figura 2
 
-![image](https://user-images.githubusercontent.com/84412132/131519317-0b8c065c-98e1-4b3f-bf6f-351ac2f9a416.png)
+![image](https://user-images.githubusercontent.com/84585835/131519596-4979e8f0-b8f9-4e35-a606-4136c3ecbdcb.png)
 
-100Hz
-
-![image](https://user-images.githubusercontent.com/84412132/131519399-800b1c81-a720-4988-8cb6-ff7c94ab8aed.png)
-
-
-500Hz
-
-![image](https://user-images.githubusercontent.com/84412132/131519449-35d0910f-f2ef-4d2c-969d-087ff394237e.png)
-
-
-1000Hz
-
-![image](https://user-images.githubusercontent.com/84412132/131519540-c79daec1-cbd8-480f-a6dc-2f9e199f642e.png)
-
-
+Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 # ANALISIS DE RESULTADOS 
+
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 # PREGUNTAS 
 
