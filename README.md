@@ -129,9 +129,51 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 
 ![image](https://user-images.githubusercontent.com/84585835/131519596-4979e8f0-b8f9-4e35-a606-4136c3ecbdcb.png)
 
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+
+Circuito armado :
+
+![image](https://user-images.githubusercontent.com/84412132/131535645-465a5b27-36a8-423d-95d7-b369ace48096.png)
+ 
+ 
+Realice las mediciones de los ítems del numeral anterior y presente los resultados.
+
+Voltaje:
+
+10 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131535940-b3ee1b5f-1645-4f14-8f6d-d01ad3861fb5.png)
+
+50 Hz  
+
+![image](https://user-images.githubusercontent.com/84412132/131536077-db919f5a-6709-4652-95e4-b690b03c5c02.png)
+
+
+100 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131536159-a9235aaf-32da-4688-aac1-6c817ba01246.png)
+
+
+500 Hz 
+
+![image](https://user-images.githubusercontent.com/84412132/131536217-bb76f1db-6852-40f1-a1ca-4d9ba303c01e.png)
+
+1000 Hz
+
+![image](https://user-images.githubusercontent.com/84412132/131536326-1fbe2bb8-4aaf-4a59-b705-e0c1b956cac4.png)
+
+
+ Corriente :
+ 
+ 10 Hz
+ 
+ 
+
+
+
 
 # ANALISIS DE RESULTADOS 
+
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
